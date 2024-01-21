@@ -1,35 +1,22 @@
 const Data = [
   {
-    Title: "PT.beIT Inovasi Tiwikrama (FrontEnd)",
-    tech: "VueJS, NuxtJS, ReactJS, NextJS, ExpressJS,MongoDB, PHP, Docker",
-    Deskripsi:
-      "Membuat dan mengembangkan Aplikasi Milik Singapore Power, Switch US, SRN MNLHK, SRN PT.BAE, Sampoerna Academy.",
-    Image: "/images/experience/logo_BeIT-white-hd.png",
+    Title: "Indonesia Biru Foundation",
+    tech: "mobile android application, firebase auth, firebase database, Java mobile development",
+    Deskripsi: "Developed Android app for diving spots in Lombok region, promoting marine conservation and boosting diving tourism.",
+    Image: "/images/experience/ibf.png"
   },
   {
-    Title: "PT.Hadejun Simedic Indonesia",
-    tech: "ReactJS,Tailwind,MUI,Axios,Etc (FrontEnd - Staff Programmer)",
-    Deskripsi: "Mengembangkankan Aplikasi Milik PT.JasaMarga Persero (BUMN) Dan Simedic",
-    Image: "/images/experience/hadejun.jpeg",
+    Title: "CV.Mina Karya Madani",
+    tech: "Python, PySpark, ReactJS, Html, Css, etc. (Data Analysis - FrontEnd )",
+    Deskripsi: "Developed a tool for recording item sales, purchases, transactions, and order management. Contributed to applications for CV.Mina Karya Madani",
+    Image: "/images/experience/Minakarya.JPG"
   },
   {
-    Title: "PT.Yutama Kreasiindo",
-    tech: "ReactJS,Bootstrap, CodeIgniter,MariaDB, Mongoose (Programmer)",
-    Deskripsi: "Mengembangkankan Aplikasi Milik PT.JasaMarga Persero (BUMN) Dan Simedic",
-    Image: "/images/experience/yutama.jpeg",
-  },
-  {
-    Title: "Eduwork.id",
-    tech: "MERN (MongoDB,ExpressJS,ReactJS, NodeJS)",
-    Deskripsi: "Internship",
-    Image: "/images/experience/eduwork.jpg",
-  },
-  {
-    Title: "Staff Tata Usaha Dan Guru TIK",
-    tech: "-",
-    Deskripsi: "Bekerja Sebagai Operator Tata Usaha Dan Guru Teknologi Informasi Dan Komunikasi (Komputer). Serta Maintance Berbagai Networking Serta Kebutuhan Sekolah.",
-    Image: "/images/experience/guru-tu.jpg",
-  },
+    "Title": "Indonesia Biru Foundation",
+    "tech": "TypeScript, Css, Web development",
+    "Deskripsi": "Managed web company profile and content on the website https://indonesiabiru.id.",
+    "Image": "/images/experience/ibf.png"
+  }, 
 ];
 
 export default function AllJob() {

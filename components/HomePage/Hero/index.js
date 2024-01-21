@@ -3,7 +3,7 @@ import { PaperClipIcon } from "@heroicons/react/solid";
 export default function Hero() {
   const getAge = (birthDate) =>
     Math.floor((new Date() - new Date(birthDate).getTime()) / 3.15576e10);
-  const UsiaSekarang = getAge("1997-10-07");
+  const UsiaSekarang = getAge("1998-11-15");
 
   return (
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mt-4 ">
@@ -23,7 +23,7 @@ export default function Hero() {
                 Full name
               </dt>
               <dd className="mt-1 text-sm text-gray-900 dark:text-white">
-                Wisnu Kristanto
+                Boy Cakraningrat
               </dd>
             </div>
             <div className="sm:col-span-1">
@@ -31,7 +31,7 @@ export default function Hero() {
                 Application for
               </dt>
               <dd className="mt-1 text-sm text-gray-900 dark:text-white">
-                JavaScript Developer
+              Data Analysis, Machine Learning and Data engineer
               </dd>
             </div>
             <div className="sm:col-span-1">
@@ -39,7 +39,7 @@ export default function Hero() {
                 Email address
               </dt>
               <dd className="mt-1 text-sm text-gray-900 dark:text-white">
-                wisnukristanto123@gmail.com
+              boycakra69@gmail.com
               </dd>
             </div>
             <div className="sm:col-span-1">
@@ -55,8 +55,12 @@ export default function Hero() {
                 About
               </dt>
               <dd className="mt-1 text-sm text-gray-900 dark:text-white">
-                Saya Seorang Fullstack Javascript, Fokus saya dibidang ini
-                adalah MERN. MongoDB, Express JS, React JS, NodeJS.
+              I am passionate about various aspects of computer science and data analysis, with a particular focus on: Machine Learning,
+Artificial Intelligence, Statistics, Data Science, Data Analysis, Sports Science.
+
+  primary focus on data analysis for various
+              applications and a special interest in AI/machine learning. Experienced in meticulously conducting data analysis and ensuring data quality. Always enthusiastic to work with precision and deliver the best insights. Committed to devising innovative
+              strategies in data analysis to meet user satisfaction and support business growth.
               </dd>
             </div>
             <div className="sm:col-span-2">
@@ -80,7 +84,7 @@ export default function Hero() {
                     </div>
                     <div className="ml-4 flex-shrink-0">
                       <a
-                        href="/file/Resume Pertama Bhs Indonesia.pdf"
+                        href="/file/Boy_Cakraningrat_cv&resume.pdf"
                         target="_blank"
                         className="font-medium text-indigo-600 hover:text-indigo-500 dark:text-white"
                       >

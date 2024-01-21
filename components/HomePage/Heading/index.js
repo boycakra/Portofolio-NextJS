@@ -1,11 +1,11 @@
 import { MailIcon, PhoneIcon } from '@heroicons/react/solid'
 
 const profile = {
-  name: 'Wisnu Kristanto',
+  name: 'Boy Cakraningrat',
   avatar:
-    '/images/nu.jpg',
+    '/images/boy.png',
   backgroundImage:
-    '/images/mern.jpeg',
+    '/images/benner.png',
 
 }
 
@@ -30,7 +30,7 @@ export default function Heading() {
               <button
                 type="button"
                 className="inline-flex justify-center px-4 py-2 border border-gray-300 shadow-sm text-sm font-medium rounded-md text-gray-700 bg-white hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-pink-500 dark:bg-cus-blue-100 dark:text-white"
-              onClick={()=>window.open('https://api.whatsapp.com/send?phone=+6283811838345&text=Hallo Wisnu, Saya Mendapatkan Nomer Dari Web Anda')}
+              onClick={()=>window.open('https://api.whatsapp.com/send?phone=+6285156084644&text=Hallo Wisnu, Saya Mendapatkan Nomer Dari Web Anda')}
               >
                 <PhoneIcon className="-ml-1 mr-2 h-5 w-5 text-gray-400 dark:text-white" aria-hidden="true" />
                 <span>WhatsApp</span>
@@ -38,7 +38,7 @@ export default function Heading() {
               <button
                 type="button"
                 className="inline-flex justify-center px-4 py-2 border border-gray-300 shadow-sm text-sm font-medium rounded-md text-gray-700 bg-white hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-pink-500 dark:bg-cus-blue-100 dark:text-white"
-                onClick={() => { window.location.href = 'mailto:wisnukristanto123@gmail.com?subject=Website&body=Selamat Siang, Wisnu' }}
+                onClick={() => { window.location.href = 'mailto:boycakra69@gmail.com?subject=Website&body=Selamat Siang, Wisnu' }}
                >
                 <MailIcon className="-ml-1 mr-2 h-5 w-5 text-gray-400 dark:text-white" aria-hidden="true" />
                 <span>Email</span>

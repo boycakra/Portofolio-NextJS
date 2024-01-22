@@ -10,66 +10,47 @@ export default function LogoProjects() {
             <div className="col-span-1 flex justify-center py-8 px-8 bg-gray-50 dark:bg-cus-blue-100">
               <img
                 className="max-h-12 "
-                src="/images/projects/jmclick.png"
+                src="/images/projects/logo.png"
                 alt="jmclick"
               />
             </div>
             <div className="col-span-1 flex justify-center py-8 px-8 bg-gray-50 dark:bg-cus-blue-100">
               <img
                 className="max-h-12"
-                src="/images/projects/switch.png"
+                src="/images/projects/weecan.png"
                 alt="switch"
               />
             </div>
             <div className="col-span-1 flex justify-center py-8 px-8 bg-gray-50 dark:bg-cus-blue-100">
               <img
                 className="max-h-12"
-                src="/images/projects/spgroup.png"
+                src="/images/projects/Skin.png"
                 alt="singapore power"
               />
             </div>
             <div className="col-span-1 flex justify-center py-8 px-8 bg-gray-50 dark:bg-cus-blue-100">
               <img
                 className="max-h-12"
-                src="/images/projects/sam_academy.png"
+                src="/images/experience/ibf.png"
                 alt="Sampoerna Academy"
               />
             </div>
             <div className="col-span-1 flex justify-center py-8 px-8 bg-gray-50 dark:bg-cus-blue-100">
               <img
                 className="max-h-12"
-                src="/images/projects/srnklhk.png"
+                src="/images/projects/data.png"
                 alt="SRN KLHK"
               />
             </div>
             <div className="col-span-1 flex justify-center py-8 px-8 bg-gray-50 dark:bg-cus-blue-100">
               <img
                 className="max-h-12"
-                src="/images/projects/erp.png"
+                src="/images/projects/data_anal.png"
                 alt="ERP"
               />
             </div>
-            <div className="col-span-1 flex justify-center py-8 px-8 bg-gray-50 dark:bg-cus-blue-100">
-              <img
-                className="max-h-12"
-                src="/images/projects/spgroup.png"
-                alt="Singapore Power"
-              />
-            </div>
-            <div className="col-span-1 flex justify-center py-8 px-8 bg-gray-50 dark:bg-cus-blue-100">
-              <img
-                className="max-h-12"
-                src="/images/derune.png"
-                alt="Luna Projects"
-              />
-            </div>
-            <div className="col-span-1 flex justify-center py-8 px-8 bg-gray-50 dark:bg-cus-blue-100">
-              <img
-                className="max-h-12"
-                src="/images/JANM.jpg"
-                alt="https://www.anm.gov.my/"
-              />
-            </div>
+           
+           
           </div>
         </div>
       </div>
